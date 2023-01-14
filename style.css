@@ -1,0 +1,37 @@
+body{
+    padding: 10vw;
+}
+.title{
+    font-weight: bolder;
+}
+.form-control {
+    display: inline-block;
+    width: 20vw;
+}
+span{
+    line-height: 40px;
+}
+.add-travel-card{
+    padding: 16px;
+    background-color: #ddd;
+}
+.btn-save-travel{
+    margin-top: 16px;
+}
+.travel-card{
+    position: relative;
+    padding: 16px;
+    background-color: olivedrab;
+    margin-top: 8px;
+}
+.title{
+    display: flex;
+    flex-direction: row;
+}
+.title h4{
+    flex:1;
+}
+.title i{
+    cursor: pointer;
+    padding: 4px;
+}
